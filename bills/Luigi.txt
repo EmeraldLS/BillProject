@@ -1,0 +1,7 @@
+Luigi Bill breakdown: 
+rice:       ...$40.00
+pie:       ...$10.00
+beans:       ...$30.00
+Tip:         ....$5.00
+
+Total:       ....$85.00
